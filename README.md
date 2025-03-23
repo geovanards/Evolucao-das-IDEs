@@ -18,4 +18,4 @@ Este trabalho buscará refletir sobre como o **Visual Studio Code** se tornou um
 - Gabriel Becker Cidral
 - Geovana Rodrigues Paz
 - Matheus Costa Pessanha  
-- Taís Doring
+- Taís Döring
