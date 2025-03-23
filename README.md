@@ -1,7 +1,7 @@
 # História e Evolução das IDEs (Ambientes de Desenvolvimento Integrados) 💻🚀
 
 **Professor(a): Kadija**  
-**Disciplina: [Nome da Disciplina]**
+**Disciplina: Desenvolvimento de Interfaces**
 
 **Tecnologia Escolhida: Visual Studio Code**  
 **Tema do Trabalho: História e Evolução das IDEs**
