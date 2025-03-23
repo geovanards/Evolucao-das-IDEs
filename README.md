@@ -1,9 +1,21 @@
 # História e Evolução das IDEs (Ambientes de Desenvolvimento Integrados) 💻🚀
 
-Este trabalho tem como objetivo explorar a **história e evolução dos Ambientes de Desenvolvimento Integrados (IDEs)**, ferramentas essenciais que desempenham um papel crucial no desenvolvimento de software moderno. As IDEs são plataformas que reúnem diversas funcionalidades para facilitar a escrita, depuração, compilação e execução de código, tornando o processo de desenvolvimento mais eficiente e produtivo.
+**Professor(a): Kadija**  
+**Disciplina: [Nome da Disciplina]**
 
-Através deste estudo, será abordada a trajetória das IDEs, desde suas origens nas décadas de 1960 e 1970, quando os desenvolvedores usavam editores simples de linha de comando, até a evolução para as ferramentas robustas e visualmente interativas que temos hoje. Será discutido o impacto de IDEs pioneiras como o **Turbo Pascal**, **Visual Basic**, e **Eclipse**, até o surgimento das soluções mais modernas, como o **Visual Studio Code**.
+**Tecnologia Escolhida: Visual Studio Code**  
+**Tema do Trabalho: História e Evolução das IDEs**
 
-Além disso, este trabalho analisará como as IDEs se adaptaram às necessidades do desenvolvimento de software, incorporando novas tecnologias como inteligência artificial, integração com sistemas de controle de versão e suporte a plataformas em nuvem, permitindo um trabalho mais colaborativo e ágil.
 
-Por fim, o estudo busca refletir sobre o futuro das IDEs e como essas ferramentas continuarão a evoluir para melhorar a experiência dos desenvolvedores, com foco na inovação e colaboração, criando um ambiente mais dinâmico e acessível para programadores de todos os níveis.
+Este trabalho tem como objetivo analisar os **Ambientes de Desenvolvimento Integrados (IDEs)**, com ênfase na evolução do **Visual Studio Code (VS Code)**, uma das ferramentas mais populares e inovadoras no campo do desenvolvimento de software.
+
+A evolução do **Visual Studio Code** será analisada desde seu lançamento, destacando como ele se tornou uma alternativa popular frente a IDEs mais pesadas. Também será discutido como o VS Code adotou tecnologias emergentes, como a integração com plataformas em nuvem, inteligência artificial para sugestões de código, e a crescente importância de uma comunidade ativa que contribui para o crescimento e aprimoramento constante da ferramenta.
+
+Este trabalho buscará refletir sobre como o **Visual Studio Code** se tornou uma das principais IDEs da atualidade e o impacto dessa evolução para a produtividade e eficiência dos desenvolvedores, além de seu papel na promoção de um ambiente de desenvolvimento colaborativo e ágil.
+
+## Estudantes
+- Alysson Kennedy Oliveira de Carvalho
+- Gabriel Becker Cidral
+- Geovana Rodrigues Paz
+- Matheus Costa Pessanha  
+- Taís Doring
