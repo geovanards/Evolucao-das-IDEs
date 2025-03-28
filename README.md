@@ -11,11 +11,10 @@ Este trabalho tem como objetivo analisar os **Ambientes de Desenvolvimento Integ
 
 A evolução do **Visual Studio Code** será analisada desde seu lançamento, destacando como ele se tornou uma alternativa popular frente a IDEs mais pesadas. Também será discutido como o VS Code adotou tecnologias emergentes, como a integração com plataformas em nuvem, inteligência artificial para sugestões de código, e a crescente importância de uma comunidade ativa que contribui para o crescimento e aprimoramento constante da ferramenta.
 
-Este trabalho buscará refletir sobre como o **Visual Studio Code** se tornou uma das principais IDEs da atualidade e o impacto dessa evolução para a produtividade e eficiência dos desenvolvedores, além de seu papel na promoção de um ambiente de desenvolvimento colaborativo e ágil.
 
 ## Estudantes
-- Alysson Kennedy Oliveira de Carvalho
-- Gabriel Becker Cidral
-- Geovana Rodrigues Paz
-- Matheus Costa Pessanha  
-- Taís Döring
+- [Alysson Kennedy Oliveira de Carvalho](https://github.com/AlyssonKe)
+- [Gabriel Becker Cidral](https://github.com/BudaBecker)
+- [Geovana Rodrigues Paz](https://github.com/geovanards)
+- [Matheus Costa Pessanha](https://github.com/matheuscostaps)
+- [Taís Döring Freire](https://github.com/TaisDF)
